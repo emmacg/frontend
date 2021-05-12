@@ -1,0 +1,17 @@
+{
+    "registrationID": 131213,
+    "registrationDate": "2013-01-12",
+    "vehicleRegistrationNo": "FK53 TBY",
+    "make": "Vauxhall",
+    "model": "Corsa",
+    "colour": "Red",
+    "forename": "Karen",
+    "surname": "Robinson",
+    "address": {
+        "streetAddress": "607 Low Street",
+        "city": "Manchester",
+        "postalCode": "MT6 5DD"
+    },
+    "dateOfBirth": "1975-02-06",
+    "driverLicenceID": "ROBIO459062KL9KO15"
+}
